@@ -613,9 +613,8 @@ def raise_startup_exception():
     raise Exception(
         "!! WRONG VERSION OF PYTHON !! "
         + "READ THE INSTRUCTIONS :: "
-        + "https://github.com/surfranch/TelegramShillBot/blob/main/README.md"
+   "
     )
-
 
 if __name__ == "__main__":
     header()
